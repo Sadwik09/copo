@@ -1,0 +1,7 @@
+export { default as api } from './api'
+export { authService } from './auth'
+export { courseService } from './courses'
+export { examinationService } from './examinations'
+export { attainmentService } from './attainment'
+export { chatService } from './chat'
+export { reportService } from './reports'
